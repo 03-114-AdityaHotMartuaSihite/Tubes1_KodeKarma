@@ -84,9 +84,3 @@ Pastikan logic `GreedyDiamondLogic` sudah didaftarkan di `CONTROLLERS` pada `mai
 - **Aditya Hot Martua Sihite** (123140114)
 - **Andre Prasetya Daely** (123140131)
 - **Exaudi Amin Hutasoit** (123140161)
-
-## Catatan Tambahan
-
-Bot ini tidak menggunakan AI atau pembelajaran mesin. Seluruh logika berbasis pada aturan deterministik dan probabilistik ringan yang disusun manual.
-
-Cocok digunakan sebagai dasar untuk eksperimen lebih lanjut dalam strategi permainan grid.

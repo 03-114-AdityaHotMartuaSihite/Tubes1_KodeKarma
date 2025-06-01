@@ -1,7 +1,3 @@
-# GreedyDiamondLogic Bot
-
-Bot ini dirancang untuk bermain dalam permainan pengumpulan berlian. Ia menggunakan strategi sederhana namun efektif untuk menentukan arah gerak berdasarkan lokasi dan nilai berlian yang ada di papan.
-
 ## i. Penjelasan Singkat Algoritma Greedy
 
 Algoritma greedy yang diterapkan memilih target berlian berdasarkan rasio "nilai/jarak" paling tinggi dari posisi bot saat ini. Strategi ini dianggap efisien karena memprioritaskan pengambilan berlian bernilai tinggi yang terdekat. Jika jumlah berlian yang dibawa bot mencapai 4 atau lebih, maka bot langsung menuju base.

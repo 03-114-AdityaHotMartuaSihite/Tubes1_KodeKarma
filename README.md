@@ -65,7 +65,7 @@ Algoritma greedy yang diterapkan memilih target berlian berdasarkan rasio "nilai
 ### Menjalankan Bot
 - Satu bot:
   ```bash
-  python main.py --logic GreedyDiamond --email=your_email@example.com --name=your_name --password=your_password --team etimo
+  python main.py --logic newlogic --email=your_email@example.com --name=your_name --password=your_password --team etimo
   ```
 - Beberapa bot:
   - **Windows**:
